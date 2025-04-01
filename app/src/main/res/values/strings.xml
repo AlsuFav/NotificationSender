@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">NotificationSender</string>
+    <string name="click_me">Click me</string>
+    <string name="enter_the_text">Введите текст</string>
+    <string name="second_screen">You are on the second screen</string>
+    <string name="third_screen">You are on the third screen</string>
+    <string name="reset_the_color">Сбросить цвет</string>
+    <string name="show_notification">Показать уведомление</string>
+    <string name="title_notification">Заголовок уведомления</string>
+    <string name="text_notification">Текст уведомления</string>
+    <string name="drop_down">Стрелка вниз</string>
+    <string name="red_color">Красный цвет</string>
+    <string name="green_color">Зеленый цвет</string>
+    <string name="yellow_color">Желтый цвет</string>
+    <string name="low_importance">Низкий канал уведомлений</string>
+    <string name="default_importance">Стандартный канал уведомлений</string>
+    <string name="high_importance">Приватный канал уведомлений</string>
+    <string name="max_importance">Акционный канал уведомлений</string>
+    <string name="load_default">Загрузить стандартную</string>
+    <string name="choose_from_gallery">Выбрать из галереи</string>
+    <string name="choose_action">Выберите действие</string>
+    <string name="permission_denied">Разрешение отклонено</string>
+    <string name="notification_title_empty">Заголовок уведомления пустой</string>
+    <string name="notification_text_empty">Текст уведомления пустой</string>
+    <string name="launched_from_notification">Приложение запущено из уведомления</string>
+    <string name="permission_notifications_granted">Разрешение на уведомления предоставлено</string>
+    <string name="permission_notifications_denied">Разрешение на уведомления отклонено</string>
+    <string name="color">цвет</string>
+
+
+    <string-array name="importance_array">
+        <item>Max</item>
+        <item>High</item>
+        <item>Default</item>
+        <item>Low</item>
+    </string-array>
+</resources>
